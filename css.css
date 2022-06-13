@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.new{
+    margin-bottom: 1em;
+}
+.messeage{
+    margin-bottom: 1em;
+}
+.entries{
+    display: flex;
+    flex-direction: column;
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+}
+
+.item h2{
+    margin: 0;
+}
+.item p{
+    margin: 0;
+}
+.options{
+   
+    display: flex;
+    flex-direction: row;
+    
+}
